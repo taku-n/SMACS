@@ -1,0 +1,13 @@
+# Vim
+*.swp
+
+# MQL5
+*.ex5
+
+# C#
+*.dll
+*.sln
+*.csproj
+.vs/
+*/bin/
+*/obj/
